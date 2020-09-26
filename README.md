@@ -5,7 +5,7 @@ exercise2.py | Conatains realisation of Lamport’s Clock
 assigment.py | Conatains realisation of Vector Clock
 
 # Possible outputs
-"Possible" because it depends on in which order were concurrent events happening
+"Possible" because of slightly different latency of print commands
 ## exercise2.py (Lamport’s Clock)
 ```
 Event in proc            1 (3700)   (LAMPORT_TIME=1, LOCAL_TIME=2020-09-26 23:26:30.636124)!
